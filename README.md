@@ -23,16 +23,21 @@
 - 조병준 : 인공지능모델구현, AWS환경구축
 
 #### * 주요 내용 요약
-- 사진을 특정 화풍으로 바꾸기
-
-![특화 프로젝트 Sub-3_2-1](/images/특화 프로젝트 Sub-3_2-1.jpg)
-
-![특화 프로젝트 Sub-3_2-2](/images/특화 프로젝트 Sub-3_2-2.jpg)
-
-![특화 프로젝트 Sub-3_2-3](/images/특화 프로젝트 Sub-3_2-3.jpg)
-
-![특화 프로젝트 Sub-3_2-4](/images/특화 프로젝트 Sub-3_2-4.jpg)
-
-![특화 프로젝트 Sub-3_2-5](/images/특화 프로젝트 Sub-3_2-5.jpg)
-
-![특화 프로젝트 Sub-3_2-6](/images/특화 프로젝트 Sub-3_2-6.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-01.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-02.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-03.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-05.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-06.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-07.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-08.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-09.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-10.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-11.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-12.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-13.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-14.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-15.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-16.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-17.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-18.jpg)
+![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-19.jpg)

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>SSAFY ART</title>
+    <script src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>
+    <script src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"></script>
+    <link rel="icon" href="favicon.png">
+    <script>
+      Kakao.init("248c7a295351f37446ef3c3911194ca5");      // 사용할 앱의 JavaScript 키를 설정
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+  
+  <script>
+    function shareKakaotalk() {
+        var imgPath = document.querySelector('.share-image').src
+        Kakao.Link.sendDefault({
+              objectType:"feed"
+              ,content : {
+                title:"SSFAY ART"   // 콘텐츠의 타이틀
+                ,description:"당신의 작품을 만들어보세요"   // 콘텐츠 상세설명
+                ,imageUrl:imgPath   // 썸네일 이미지
+                ,link : {
+                  mobileWebUrl:"https://i02b103.p.ssafy.io/"   // 모바일 카카오톡에서 사용하는 웹 링크 URL
+                  ,webUrl:"https://i02b103.p.ssafy.io/" // PC버전 카카오톡에서 사용하는 웹 링크 URL
+                }
+            }
+        });
+    }
+  </script>
+</html>
