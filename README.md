@@ -23,21 +23,39 @@
 - 조병준 : 인공지능모델구현, AWS환경구축
 
 #### * 주요 내용 요약
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-01.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-02.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-03.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-05.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-06.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-07.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-08.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-09.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-10.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-11.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-12.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-13.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-14.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-15.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-16.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-17.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-18.jpg)
-![특화 프로젝트](/images/SSAFY ART_v.0.2.4(스크립트버전)-19.jpg)
+![특화 프로젝트](/images/1.jpg)
+
+![특화 프로젝트](/images/2.jpg)
+
+![특화 프로젝트](/images/3.jpg)
+
+![특화 프로젝트](/images/5.jpg)
+
+![특화 프로젝트](/images/6.jpg)
+
+![특화 프로젝트](/images/7.jpg)
+
+![특화 프로젝트](/images/8.jpg)
+
+![특화 프로젝트](/images/9.jpg)
+
+![특화 프로젝트](/images/10.jpg)
+
+![특화 프로젝트](/images/11.jpg)
+
+![특화 프로젝트](/images/12.jpg)
+
+![특화 프로젝트](/images/13.jpg)
+
+![특화 프로젝트](/images/14.jpg)
+
+![특화 프로젝트](/images/15.jpg)
+
+![특화 프로젝트](/images/16.jpg)
+
+![특화 프로젝트](/images/17.jpg)
+
+![특화 프로젝트](/images/18.jpg)
+
+![특화 프로젝트](/images/19.jpg)
+
