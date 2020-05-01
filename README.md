@@ -53,9 +53,6 @@
 
 ![특화 프로젝트](/images/16.jpg)
 
-![특화 프로젝트](/images/17.jpg)
 
-![특화 프로젝트](/images/18.jpg)
 
-![특화 프로젝트](/images/19.jpg)
 
